@@ -59,7 +59,7 @@ sudo python3 -m pip install tweepy
 "pubmed.py"の基本的な使い方
  
 ```bash
-git clone https://github.com/tanimoyan/test-selenium-app.git  
+git clone https://github.com/tanimoyan/selenium-project.git  
 python3 pubmed.py
 ```
  
